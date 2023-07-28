@@ -6,3 +6,4 @@
 
 - Association audio-gd on adam T7V
 
+![easy effect :p](/Images/Screenshot_20230728_092329.png)
